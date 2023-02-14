@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: bold;
+}
+
+h1 {
+    background-color: rgb(255, 120, 142);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
+
+h2 {
+    background-color: rgb(222, 193, 250);
+}
+
+.recetas {
+    text-align: center;
+}
+
